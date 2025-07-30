@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    padding: 2rem;
+    min-height: 100vh;
+}
+
+#title{
+    margin: 1rem;
+}
+
+#imgPokemon{
+    width: 10rem;
+}
+
+.info{
+    margin: 1rem;
+    padding: 1rem;
+    list-style: none;
+}
+
+.types{
+    margin-bottom: 1rem;
+    list-style: none;
+}
+
+.backPokedex{
+    color: #ffffff;
+    margin: 0.25rem 0rem;
+    padding: 0.25rem 0.5rem;
+    background-color: #6c39db;
+    border: none;
+    border-radius: 1rem;
+}

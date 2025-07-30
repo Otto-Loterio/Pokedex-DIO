@@ -1,0 +1,24 @@
+.content {
+    padding: 2rem;
+    background-color: #ffffff;
+    min-height: 100vh;
+}
+
+@media screen and (min-width: 911px) {
+    .content {
+        max-width: 911px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem;
+    }
+
+}
+
+body{
+    background-color: #f6f8fc;
+}
+
+
+.content h1 {
+    margin: 0;
+}
